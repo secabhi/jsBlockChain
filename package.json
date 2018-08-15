@@ -1,0 +1,20 @@
+{
+  "name": "jsBlockChain",
+  "version": "1.0.0",
+  "description": "Understanding working of Block chain with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secabhi/jsBlockChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secabhi/jsBlockChain/issues"
+  },
+  "homepage": "https://github.com/secabhi/jsBlockChain#readme"
+}
